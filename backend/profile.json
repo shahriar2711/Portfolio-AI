@@ -1,0 +1,76 @@
+{
+  "name": "Md. Atiq Shahriar",
+  "email": "atiqshahriar2001@gmail.com",
+  "phone": "+880-1829465646",
+  "cgpa": "3.78/4.00",
+  "total_experience_years": 1.0,
+  "skills": [
+    "Python",
+    "C",
+    "C++",
+    "SQL",
+    "Data Structures & Algorithms",
+    "Object-Oriented Programming",
+    "Database Systems",
+    "Software Engineering",
+    "Machine Learning",
+    "Deep Learning",
+    "Federated Learning",
+    "Explainable AI",
+    "LLM Applications",
+    "Prompt Engineering",
+    "LLM APIs",
+    "Structured Outputs",
+    "Pydantic",
+    "React.js",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "REST APIs",
+    "JWT Authentication",
+    "Git",
+    "GitHub",
+    "Jupyter Notebook",
+    "Google Colab",
+    "MongoDB Atlas",
+    "VS Code"
+  ],
+  "experiences": [
+    {
+      "company": "Chittagong University of Engineering & Technology (CUET)",
+      "role": "Undergraduate Thesis Research",
+      "duration": "2025 – 2026",
+      "description": "Developed an energy‑aware federated learning framework for ICU mortality prediction using MIMIC‑IV data across 11 heterogeneous simulated ICU clients. Designed a client selection strategy that reduced training energy by 31.7% while achieving 0.8190 AUROC compared with full‑participation FedAvg. Investigated the relationship between client heterogeneity, predictive performance, and training energy in federated healthcare learning.",
+      "skills_used": [
+        "Python",
+        "PyTorch",
+        "Streamlit",
+        "LIME",
+        "Plotly",
+        "Pandas",
+        "Federated Learning",
+        "Explainable AI"
+      ]
+    }
+  ],
+  "education": [
+    "Master of Science in Computer Science & Engineering, Chittagong University of Engineering & Technology (CUET), 2026 – Present",
+    "Bachelor of Science in Computer Science & Engineering, Chittagong University of Engineering & Technology (CUET), March 2022 – June 2026, CGPA: 3.78/4.00",
+    "Higher Secondary Certificate (Science), Chittagong College, 2018 – 2020, GPA: 5.00/5.00",
+    "Secondary School Certificate (Science), Chittagong Government High School, 2016 – 2018, GPA: 5.00/5.00"
+  ],
+  "projects": [
+    "ICU Mortality Prediction Dashboard – Built and deployed an interactive Streamlit application for ICU mortality risk prediction using a trained BiLSTM model; integrated LIME‑based local explanations and analytics for prediction interpretation, federated training performance, and energy consumption.",
+    "LLM Resume Evaluator – Created an LLM‑based resume screening tool that parses PDF/DOCX files, extracts structured information with Pydantic schemas, and provides semantic matching of skills, experience, and education to generate match scores and skill gap analysis.",
+    "MediTrack – Developed a full‑stack healthcare platform (React.js, Node.js, Express.js, MongoDB) with dashboards for doctors, patients, and administrators, featuring secure JWT authentication, role‑based access, digital consultations, e‑prescriptions, and patient history management.",
+    "StudyPlan – Implemented a MERN‑based study management platform for organizing semester‑wise tasks, schedules, and academic progress, with dashboards for task tracking, deadline visualization, and progress monitoring."
+  ],
+  "achievements": [],
+  "certifications": [
+    "Front‑End Development Training (80 Hours) — CSE, CUET (EDGE Project), Apr 2025",
+    "Supervised Machine Learning: Regression and Classification — Stanford University, Mar 2025",
+    "Advanced Learning Algorithms — Stanford University, Apr 2025",
+    "Unsupervised Learning, Recommenders, and Reinforcement Learning — Stanford University, Jul 2025"
+  ],
+  "social_links": []
+}
