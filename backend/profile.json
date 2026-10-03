@@ -3,7 +3,7 @@
   "email": "atiqshahriar2001@gmail.com",
   "phone": "+880-1829465646",
   "cgpa": "3.78/4.00",
-  "total_experience_years": 1.0,
+  "total_experience_years": null,
   "skills": [
     "Python",
     "C",
@@ -33,7 +33,13 @@
     "Jupyter Notebook",
     "Google Colab",
     "MongoDB Atlas",
-    "VS Code"
+    "VS Code",
+    "FastAPI",
+    "Streamlit",
+    "LIME",
+    "Plotly",
+    "Pandas",
+    "Tailwind CSS"
   ],
   "experiences": [
     {
@@ -44,30 +50,54 @@
       "skills_used": [
         "Python",
         "PyTorch",
-        "Streamlit",
-        "LIME",
-        "Plotly",
-        "Pandas",
         "Federated Learning",
-        "Explainable AI"
+        "Energy Profiling"
       ]
+    },
+    {
+      "company": "IEEE Computer Society CUET Student Branch Chapter",
+      "role": "Publication Secretary",
+      "duration": "2025 – 2026",
+      "description": null,
+      "skills_used": []
+    },
+    {
+      "company": "CUET Computer Club",
+      "role": "Deputy Finance Secretary",
+      "duration": "2025 – 2026",
+      "description": null,
+      "skills_used": []
+    },
+    {
+      "company": "JOYODDHONEY, CUET",
+      "role": "Joint Publication Secretary",
+      "duration": "2025 – 2026",
+      "description": null,
+      "skills_used": []
+    },
+    {
+      "company": "HULT Prize at CUET",
+      "role": "Head of Logistics",
+      "duration": "2024 – 2025",
+      "description": null,
+      "skills_used": []
     }
   ],
   "education": [
-    "Master of Science in Computer Science & Engineering, Chittagong University of Engineering & Technology (CUET), 2026 – Present",
-    "Bachelor of Science in Computer Science & Engineering, Chittagong University of Engineering & Technology (CUET), March 2022 – June 2026, CGPA: 3.78/4.00",
+    "M.Sc. Computer Science & Engineering, Chittagong University of Engineering & Technology (CUET), 2026 – Present, Chattogram, Bangladesh",
+    "B.Sc. Computer Science & Engineering, Chittagong University of Engineering & Technology (CUET), March 2022 – June 2026, CGPA: 3.78/4.00, Chattogram, Bangladesh",
     "Higher Secondary Certificate (Science), Chittagong College, 2018 – 2020, GPA: 5.00/5.00",
     "Secondary School Certificate (Science), Chittagong Government High School, 2016 – 2018, GPA: 5.00/5.00"
   ],
   "projects": [
-    "ICU Mortality Prediction Dashboard – Built and deployed an interactive Streamlit application for ICU mortality risk prediction using a trained BiLSTM model; integrated LIME‑based local explanations and analytics for prediction interpretation, federated training performance, and energy consumption.",
-    "LLM Resume Evaluator – Created an LLM‑based resume screening tool that parses PDF/DOCX files, extracts structured information with Pydantic schemas, and provides semantic matching of skills, experience, and education to generate match scores and skill gap analysis.",
-    "MediTrack – Developed a full‑stack healthcare platform (React.js, Node.js, Express.js, MongoDB) with dashboards for doctors, patients, and administrators, featuring secure JWT authentication, role‑based access, digital consultations, e‑prescriptions, and patient history management.",
-    "StudyPlan – Implemented a MERN‑based study management platform for organizing semester‑wise tasks, schedules, and academic progress, with dashboards for task tracking, deadline visualization, and progress monitoring."
+    "AI Portfolio Chatbot – Python, FastAPI, React, Tailwind CSS, Groq API, Pydantic",
+    "ICU Mortality Prediction Dashboard – Python, PyTorch, Streamlit, LIME, Plotly, Pandas",
+    "MediTrack – React.js, Node.js, Express.js, MongoDB, Tailwind CSS, JWT, bcrypt",
+    "StudyPlan – React.js, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS"
   ],
   "achievements": [],
   "certifications": [
-    "Front‑End Development Training (80 Hours) — CSE, CUET (EDGE Project), Apr 2025",
+    "Front-End Development Training (80 Hours) — CSE, CUET (EDGE Project), Apr 2025",
     "Supervised Machine Learning: Regression and Classification — Stanford University, Mar 2025",
     "Advanced Learning Algorithms — Stanford University, Apr 2025",
     "Unsupervised Learning, Recommenders, and Reinforcement Learning — Stanford University, Jul 2025"
