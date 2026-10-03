@@ -20,7 +20,11 @@ MODEL = "openai/gpt-oss-120b"
 app = FastAPI()
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173", "http://localhost:3000"],  # add your Vercel URL later
+       allow_origins=[
+       "http://localhost:5173",
+       "http://localhost:3000",
+       "https://portfolio-ai-mocha-two.vercel.app",
+    ],  
     allow_methods=["*"],
     allow_headers=["*"],
 )
